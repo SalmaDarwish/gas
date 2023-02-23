@@ -1,1 +1,26 @@
 /* You can add global styles to this file, and also import other style files */
+@import "../node_modules/ag-grid-community/styles/ag-grid.css";
+@import "../node_modules/ag-grid-community/styles/ag-theme-alpine.css";
+@import  url('https://fonts.googleapis.com/css2?family=Tajawal:wght@200;300;400;500;700;800;900&display=swap');
+@import '~@fortawesome/fontawesome-free/scss/fontawesome.scss';
+@import '~@fortawesome/fontawesome-free/scss/regular.scss';
+@import '~@fortawesome/fontawesome-free/scss/solid.scss';
+@import '~@fortawesome/fontawesome-free/scss/brands.scss';
+html, body, #app {
+    height: 100%;
+    width: 100%;
+ 
+}
+
+// html {
+//     position: absolute;
+//     top: 0;
+//     left: 0;
+//     padding: 0;
+//     overflow: auto;
+// }
+
+// body {
+//     padding: 1rem;
+//     overflow: auto;
+// }
